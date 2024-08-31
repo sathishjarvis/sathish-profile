@@ -14,13 +14,13 @@ const Navbar = () => {
     return (
         <div className="navbar">
             <div className="navbar-container">
-                <Link to="/" className="navbar-logo"><img src={logo} alt='one peace logo' /></Link>
+                <Link to="/sathish-profile" className="navbar-logo"><img src={logo} alt='one peace logo' /></Link>
                 <div className="menu-icon" onClick={handleClick}>
                     {click ? <FaTimes /> : <FaBars />}
                 </div>
                 <ul className={click ? "nav-menu active" : "nav-menu"}>
                     <li className="nav-item">
-                        <Link to="/" className="nav-links"  onClick={closeMenu}>Home</Link>
+                        <Link to="/sathish-profile" className="nav-links"  onClick={closeMenu}>Home</Link>
                     </li>
                     <li className="nav-item">
                         <Link to="/about" className="nav-links" onClick={closeMenu}>About</Link>
