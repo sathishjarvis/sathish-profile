@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/sathish-profile/static/css/main.5fcab731.css",
+    "main.js": "/sathish-profile/static/js/main.5e26d297.js",
+    "static/js/453.4f1ad323.chunk.js": "/sathish-profile/static/js/453.4f1ad323.chunk.js",
+    "static/media/sathishprofile.jpg": "/sathish-profile/static/media/sathishprofile.46067f7830c890846633.jpg",
+    "static/media/jeniferbridel.png": "/sathish-profile/static/media/jeniferbridel.2002f174ad7aab231645.png",
+    "static/media/akshayasweets.png": "/sathish-profile/static/media/akshayasweets.190fe4c48ead953bd4c3.png",
+    "static/media/fotog.png": "/sathish-profile/static/media/fotog.3583fb163b87ee8711b4.png",
+    "static/media/uiux.png": "/sathish-profile/static/media/uiux.66323228d4ad8b976732.png",
+    "static/media/Screenshot 2024-05-14 110822.png": "/sathish-profile/static/media/Screenshot 2024-05-14 110822.5d6e5aeda43cd5a466b9.png",
+    "static/media/static.png": "/sathish-profile/static/media/static.bb98a2253f6ae6b50885.png",
+    "static/media/sathishResume.pdf": "/sathish-profile/static/media/sathishResume.5f9811a071222c6bde93.pdf",
+    "static/media/logodesign.jpg": "/sathish-profile/static/media/logodesign.b58feb825a0833848b68.jpg",
+    "static/media/invoice.jpeg": "/sathish-profile/static/media/invoice.0daad2573046be4e446f.jpeg",
+    "static/media/mobile_app.jpeg": "/sathish-profile/static/media/mobile_app.0798ce363fd86daf393f.jpeg",
+    "static/media/onepeacelogo.png": "/sathish-profile/static/media/onepeacelogo.935e4c96249e6f87d1d6.png",
+    "static/media/dynamic.jpeg": "/sathish-profile/static/media/dynamic.82c0a775e5a9f3949740.jpeg",
+    "static/media/digital marketing.jpg": "/sathish-profile/static/media/digital marketing.23c155d650dab21263ee.jpg",
+    "static/media/react.png": "/sathish-profile/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/book.jpeg": "/sathish-profile/static/media/book.098f33e10c39d6534b05.jpeg",
+    "static/media/nodejs.png": "/sathish-profile/static/media/nodejs.10ccac0eb9dd930b6b6c.png",
+    "static/media/email.jpeg": "/sathish-profile/static/media/email.354cfa9dc1fdb21315a4.jpeg",
+    "static/media/uiux.jpeg": "/sathish-profile/static/media/uiux.a1f958fe0c586793b057.jpeg",
+    "static/media/figma.png": "/sathish-profile/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/html.png": "/sathish-profile/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/house.jpeg": "/sathish-profile/static/media/house.f085335aa839c4cfe9ec.jpeg",
+    "static/media/css-3.png": "/sathish-profile/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/phone.jpeg": "/sathish-profile/static/media/phone.3bbddbec6661887f4509.jpeg",
+    "static/media/js.png": "/sathish-profile/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/mysql.jpg": "/sathish-profile/static/media/mysql.9e4c7326718642aabbaf.jpg",
+    "index.html": "/sathish-profile/index.html",
+    "main.5fcab731.css.map": "/sathish-profile/static/css/main.5fcab731.css.map",
+    "main.5e26d297.js.map": "/sathish-profile/static/js/main.5e26d297.js.map",
+    "453.4f1ad323.chunk.js.map": "/sathish-profile/static/js/453.4f1ad323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fcab731.css",
+    "static/js/main.5e26d297.js"
+  ]
+}
